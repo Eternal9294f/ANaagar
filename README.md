@@ -1,4 +1,4 @@
-# ANaagar
+ANaagar
 Hello everyone
 Hey, I'm A Naagar. 👋
 
@@ -12,7 +12,7 @@ And currently learning:
 
 `Product thinking` · `AI` · `SQL` · `Analytics` · `Product Design` · `APIs`
 
-## 🌍 A Little About Me
+🌍 A Little About Me
 
 Outside of tech, I'm obsessed with travel.
 
@@ -47,5 +47,7 @@ Write me something cool: aditya.naagar.contact@gmail.com
 **Portfolio:** [Coming soon]
 
 Once a wise man said:
+
 *Everything around us is a product.*
+
 - Nae
