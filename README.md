@@ -14,7 +14,7 @@ And currently learning:
 
 `Product thinking` · `AI` · `SQL` · `Analytics` · `Product Design` · `APIs`
 
-"🌍 A Little About Me
+""🌍 A Little About Me
 
 Outside of tech, I'm obsessed with travel.
 
