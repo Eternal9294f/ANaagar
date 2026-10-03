@@ -1,5 +1,7 @@
 ANaagar
+
 Hello everyone
+
 Hey, I'm A Naagar. 👋
 
 I'm an engineer finding my way into Product Management.
@@ -49,5 +51,6 @@ Write me something cool: aditya.naagar.contact@gmail.com
 Once a wise man said:
 
 *Everything around us is a product.*
+
 
 - Nae
