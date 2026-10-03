@@ -14,7 +14,8 @@ And currently learning:
 
 `Product thinking` · `AI` · `SQL` · `Analytics` · `Product Design` · `APIs`
 
-""🌍 A Little About Me
+
+🌍 A Little About Me
 
 Outside of tech, I'm obsessed with travel.
 
@@ -26,7 +27,7 @@ So yeah, the bigger picture is:
 
 **Build cool things → work from anywhere → see the world.**
 
-👍As Once a wise man said:
+👍As once a wise man said:
 
 *Everything around us is a product.*
 
