@@ -1,8 +1,8 @@
 
 
-Hello everyone
+Hello everyone 🙌
 
-I'm A Naagar. 
+This is  A Naagar. 
 
 I'm an engineer finding my way into Product Management.
 
@@ -45,7 +45,6 @@ So yeah, the bigger picture is:
 
 Some will be polished.
 Others will simply be experiments.
-
 That's the point.
 
 📫 Find Me:
