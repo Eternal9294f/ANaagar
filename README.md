@@ -1,8 +1,8 @@
-ANaagar
+
 
 Hello everyone
 
-Hey, I'm A Naagar. 👋
+I'm A Naagar. 
 
 I'm an engineer finding my way into Product Management.
 
@@ -14,7 +14,7 @@ And currently learning:
 
 `Product thinking` · `AI` · `SQL` · `Analytics` · `Product Design` · `APIs`
 
-🌍 A Little About Me
+"🌍 A Little About Me
 
 Outside of tech, I'm obsessed with travel.
 
@@ -25,6 +25,13 @@ One of my long-term goals is to build a career that lets me **work from anywhere
 So yeah, the bigger picture is:
 
 **Build cool things → work from anywhere → see the world.**
+
+👍As Once a wise man said:
+
+*Everything around us is a product.*
+
+
+- Nae
 
 
 👍This GitHub is basically my public learning space, and post about.
@@ -48,9 +55,3 @@ Write me something cool: aditya.naagar.contact@gmail.com
 
 **Portfolio:** [Coming soon]
 
-Once a wise man said:
-
-*Everything around us is a product.*
-
-
-- Nae
