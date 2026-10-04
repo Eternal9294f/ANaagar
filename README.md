@@ -1,10 +1,8 @@
-
-
-Hello everyone 🙌
+# Hello everyone 🙌
 
 This is  A Naagar. 
 
-I'm an engineer finding my way into Product Management.
+I'm an engineer transitioning into Product Management.
 
 I like understanding why people use the things they use, why some products become part of our everyday lives, and why others disappear.
 
@@ -15,7 +13,7 @@ And currently learning:
 `Product thinking` · `AI` · `SQL` · `Analytics` · `Product Design` · `APIs`
 
 
-🌍 A Little About Me
+# 🌍 A Little About Me
 
 Outside of tech, I'm obsessed with travel.
 
@@ -35,7 +33,7 @@ So yeah, the bigger picture is:
 - Nae
 
 
-👍This GitHub is basically my public learning space, and post about.
+# 👍This GitHub is basically my public learning space, and post about.
 
 * Product experiments
 * Analytics projects
@@ -48,7 +46,7 @@ Some will be polished.
 Others will simply be experiments.
 That's the point.
 
-📫 Find Me:
+# 📫 Find Me:
 Write me something cool: aditya.naagar.contact@gmail.com
 
 **LinkedIn:** www.linkedin.com/in/anaagar
