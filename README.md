@@ -10,7 +10,7 @@ These days, I'm exploring **product thinking, AI, data, and how the internet ear
 
 And currently learning:
 
-`Product thinking` · `AI` · `SQL` · `Analytics` · `Product Design` · `APIs`
+`Product thinking` · `Product Design` · `Using AI PM` · `APIs` · `Analytics` · `SQL`
 
 
 # 🌍 A Little About Me
@@ -28,9 +28,7 @@ So yeah, the bigger picture is:
 👍As once a wise man said:
 
 *Everything around us is a product.*
-
-
-- Nae
+Nae
 
 
 # 👍This GitHub is basically my public learning space, and post about.
