@@ -25,10 +25,9 @@ So yeah, the bigger picture is:
 
 **Build cool things → work from anywhere → see the world.**
 
-👍As once a wise man said:
+As once a wise man said:
 
-*Everything around us is a product.*
-Nae
+Nae: *Everything around us is a product.*
 
 
 # 👍This GitHub is basically my public learning space, and post about.
