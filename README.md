@@ -1,8 +1,7 @@
-# Hello everyone 🙌
 
-This is  A Naagar. 
+# This is A Naagar.  🙌
 
-I'm an engineer transitioning into Product Management.
+Engineer by background. Product thinker in progress.
 
 I like understanding why people use the things they use, why some products become part of our everyday lives, and why others disappear.
 
@@ -25,12 +24,15 @@ So yeah, the bigger picture is:
 
 **Build cool things → work from anywhere → see the world.**
 
-As once a wise man said:
-
 Nae: *Everything around us is a product.*
 
 
-# 👍This GitHub is basically my public learning space, and post about.
+# Why GitHub?
+I've spent a lot of time learning, planning, and thinking about things.
+
+At some point, I figured I should probably start leaving evidence.
+
+So this is where I'm starting to put the things I build, experiment with, break, fix, and occasionally wonder why I built in the first place- basically my public learning space and post about:
 
 * Product experiments
 * Analytics projects
@@ -40,8 +42,23 @@ Nae: *Everything around us is a product.*
 * Things I'm learning along the way
 
 Some will be polished.
-Others will simply be experiments.
-That's the point.
+Others will be experiments.
+That's the point. I guess
+
+# The kind of builder I want to become
+
+I don't want to just learn tools.
+
+I want to understand why a product should exist before figuring out how to build it.
+
+I want to be able to move between the user, the product, the data, and the technology without treating any of them as someone else's problem.
+
+Basically:
+
+Think like a PM.
+Build like a maker.
+Measure like an analyst.
+Stay curious like a beginner.
 
 # 📫 Find Me:
 Write me something cool: aditya.naagar.contact@gmail.com
